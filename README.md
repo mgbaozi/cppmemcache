@@ -1,0 +1,4 @@
+cppmemcache
+===========
+
+libmemcached for c++
